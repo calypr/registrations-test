@@ -4,4 +4,5 @@ registration_config:
   - foo@example.com
   defaultBranch: main
   installation_id: '101775310'
-  readUsers: []
+  readUsers:
+  - bar@example.com
