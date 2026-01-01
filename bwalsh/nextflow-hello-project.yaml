@@ -1,8 +1,8 @@
 installation_id: '101775310'
 registration_config:
   adminUsers:
-  - foo@example.com
+  - foo-changed@example.com
   defaultBranch: main
   installation_id: '101775310'
   readUsers:
-  - bar@example.com
+  - bar-changed@example.com
