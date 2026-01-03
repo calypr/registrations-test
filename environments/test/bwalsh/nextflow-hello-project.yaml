@@ -1,0 +1,10 @@
+installation_id: '101775310'
+registration_config:
+  adminUsers:
+  - foo@example.com
+  defaultBranch: main
+  full_name: bwalsh/nextflow-hello-project
+  git_host: github.com
+  installation_id: '101775310'
+  readUsers:
+  - bar@example.com
