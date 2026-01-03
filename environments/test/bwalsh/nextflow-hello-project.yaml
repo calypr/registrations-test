@@ -1,5 +1,4 @@
-installation_id: '101775310'
-registration_config:
+repoRegistration:
   adminUsers:
   - foo@example.com
   defaultBranch: main
