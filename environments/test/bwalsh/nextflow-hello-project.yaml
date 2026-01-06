@@ -1,5 +1,6 @@
 repoRegistration:
   repoUrl: https://github.com/bwalsh/nextflow-hello-project.git
+  name: bwalsh-nextflow-hello-project
   adminUsers:
   - foo@example.com
   defaultBranch: main
